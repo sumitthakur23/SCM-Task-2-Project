@@ -1,7 +1,7 @@
 # Quizzical Quiz
 import random
 
-'''-------------------------'''
+'''---------------------------'''
 def new_game():
 
     guesses = []
