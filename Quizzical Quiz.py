@@ -185,3 +185,5 @@ while play_again():
 print("Thanks for playing the game 👍")
 
 '''------------------------'''
+
+#This is a quiz game and very effective
